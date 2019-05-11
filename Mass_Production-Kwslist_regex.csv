@@ -1,0 +1,82 @@
+﻿keyword,regex
+american method,\b[[:alpha:]]*american.(method|methods)\b
+american plan,\b[[:alpha:]]*american.(plan|plans|planing|planning)\b
+american principle,\b[[:alpha:]]*american.principle[[:alpha:]]*\b
+american system of manufactures,\b[[:alpha:]]*american.system[[:alpha:]]*.of.manufact[[:alpha:]]*\b
+american system of production,\b[[:alpha:]]*american.system[[:alpha:]]*.of.(production|productions)\b
+annual model change,\b[[:alpha:]]*(annual|yearly).*[[:alpha:]]*.*model.chang[[:alpha:]]*\b
+artisanal manufacturing,\b[[:alpha:]]*artisanal.manufact[[:alpha:]]*\b
+artisanal production,\b[[:alpha:]]*artisanal.(production|productions)\b
+assembly line,\b[[:alpha:]]*assembl[[:alpha:]]*.line[[:alpha:]]*\b
+automation,\b[[:alpha:]]*automation[[:alpha:]]*\b
+automatization,\b[[:alpha:]]*automati[z|s]ation[[:alpha:]]*\b
+batch manufacturing,\b[[:alpha:]]*batch.manufact[[:alpha:]]*\b
+batch production,\b[[:alpha:]]*batch.(production|productions)\b
+business process re-engineering,\b[[:alpha:]]*business.process.re.engineer[[:alpha:]]*\b
+computer-aided or integrated design,\b[[:alpha:]]*computer.(aided|integrated).design[[:alpha:]]*\b
+computer-aided or integrated engineering,\b[[:alpha:]]*computer.(aided|integrated).engineer[[:alpha:]]*\b
+computer-aided or integrated manufacturing,\b[[:alpha:]]*computer.(aided|integrated).manufact[[:alpha:]]*\b
+continuous-flow production,\b[[:alpha:]]*continuous.flow.(production|productions)\b
+continuous-process,\b[[:alpha:]]*continuous.(process|processes|processing)\b
+craft manufacturing,\bcraft.manufact[[:alpha:]]*\b
+craft production,\bcraft.(production|productions)\b
+custom manufacturing,\b[[:alpha:]]*custom.manufact[[:alpha:]]*\b
+custom production,\b[[:alpha:]]*custom.(production|productions)\b
+cyber-physical systems,\b[[:alpha:]]*cyber.physical.system[[:alpha:]]*\b
+delayed product differentiation,\b[[:alpha:]]*delayed.product.different[[:alpha:]]\b
+digitalization,\b[[:alpha:]]*digitali[z|s]ation[[:alpha:]]*\b
+division of jobs,\b[[:alpha:]]*division[[:alpha:]]*.of.job[[:alpha:]]*|[[:alpha:]]*job.division[[:alpha:]]*\b
+division of labour,\b[[:alpha:]]*division[[:alpha:]]*.of.labour[[:alpha:]]*|[[:alpha:]]*labour.division[[:alpha:]]*\b
+division of tasks,\b[[:alpha:]]*division[[:alpha:]]*.of.task[[:alpha:]]*|[[:alpha:]]*task.division[[:alpha:]]*\b
+economies of scale,\b[[:alpha:]]*econom[[:alpha:]]*.of.scal[[:alpha:]]*\b
+economies of scope,\b[[:alpha:]]*econom[[:alpha:]]*.of.scop[[:alpha:]]*\b
+electrification,\b[[:alpha:]]*electrification[[:alpha:]]*\b
+flexible manufacturing,\b[[:alpha:]]*flexible.manufact[[:alpha:]]*\b
+flexible mass production,\b[[:alpha:]]*flexible.mass.(production|productions)\b
+flexible production,\b[[:alpha:]]*flexible.(production|productions)\b
+flexible specialization,\b[[:alpha:]]*flexible.speciali[z|s]ation[[:alpha:]]*\b
+fordism,\b[[:alpha:]]*fordism[[:alpha:]]*\b
+installment purchasing,\b[[:alpha:]]*installment.purchas[[:alpha:]]*\b
+installment sales,\b[[:alpha:]]*installment.sal[[:alpha:]]*\b
+interchangeability,\b[[:alpha:]]*interchang[[:alpha:]]*\b
+lean manufacturing,\blean.manufact[[:alpha:]]*\b
+lean production,\blean.(production|productions)\b
+mass consumption,\b[[:alpha:]]*mass.consump[[:alpha:]]*\b
+mass customization,\b[[:alpha:]]*mass.customi[z|s]ation[[:alpha:]]*\b
+mass manufacturing ,\b[[:alpha:]]*mass.manufact[[:alpha:]]*\b
+mass production,\b[[:alpha:]]*mass.produc[[:alpha:]]*\b
+mechanization,\b[[:alpha:]]*mechani[z|s]ation[[:alpha:]]*\b
+on-demand manufacturing systems,\b[[:alpha:]]*on.demand.manufact[[:alpha:]]*.system[[:alpha:]]*\b
+open product architecture,\b[[:alpha:]]*open.product[[:alpha:]]*.architecture[[:alpha:]]*\b
+open product platform,\b[[:alpha:]]*open.product[[:alpha:]]*.platform[[:alpha:]]*\b
+personalized design,\b[[:alpha:]]*personali[[:alpha:]]*.design[[:alpha:]]*\b
+personalized production,\b[[:alpha:]]*personali[[:alpha:]]*.(production|productions)\b
+planned obsolescence,\b[[:alpha:]]*planned.obsolescence[[:alpha:]]*\b
+post-fordism,\b[[:alpha:]]*post.?fordism[[:alpha:]]*\b
+post-lean manufacturing,\b[[:alpha:]]*post.?lean.manufact[[:alpha:]]*\b
+post-lean production,\b[[:alpha:]]*post.?lean.(production|productions)\b
+product family architecture,\b[[:alpha:]]*product.family.architecture[[:alpha:]]*\b
+reconfigurable manufacturing system,\b[[:alpha:]]*reconfigurable.manufact[[:alpha:]]*.system[[:alpha:]]*\b
+robotics,\brobotic|robotics\b
+robots,\brobot|robots\b
+scientific management,\b[[:alpha:]]*scientific.management[[:alpha:]]*\b
+single-purpose or single function machines,\b[[:alpha:]]*single.purpose.mach[[:alpha:]]*\b
+sloanism,\b[[:alpha:]]*sloanism[[:alpha:]]*\b
+specialty manufacturing,\b[[:alpha:]]*specialty.manufact[[:alpha:]]*\b
+specialty production,\b[[:alpha:]]*specialty.(production|productions)\b
+standardization,\b[[:alpha:]]*standardi[z|s]ation[[:alpha:]]*\b
+taylorism,\b[[:alpha:]]*taylorism[[:alpha:]]*\b
+total quality control,\b[[:alpha:]]*total.quality.control[[:alpha:]]*\b
+toyota production kanbanjidoka,\b[[:alpha:]]*toyota.(production|productions).kanbanjidoka[[:alpha:]]*\b
+toyota production system,\b[[:alpha:]]*toyota.(production|productions).system[[:alpha:]]*\b
+toyotism,\b[[:alpha:]]*toyotism[[:alpha:]]*\b
+single-function machines,\b[[:alpha:]]*single.function.mach[[:alpha:]]*\b
+special-purpose machines,\b[[:alpha:]]*special.purpose.mach[[:alpha:]]*\b
+single-function equipment,\b[[:alpha:]]*single.function.equipment[[:alpha:]]*\b
+special-purpose equipment,\b[[:alpha:]]*special.purpose.equipment[[:alpha:]]*\b
+sequencing of machines,\b[[:alpha:]]*sequen[[:alpha:]]*.of.mach[[:alpha:]]*\b
+single task optmization,\b[[:alpha:]]*single.task.optimi[z|s]ation[[:alpha:]]*\b
+continuous improvement,\b[[:alpha:]]*continuous.improvement[[:alpha:]]*\b
+just-in-time supply,\b[[:alpha:]]*just.in.time.suppl[[:alpha:]]*\b
+streamline manufacturing,\b[[:alpha:]]*streamline[[:alpha:]]*.manufact[[:alpha:]]*\b
+just-in-time production,\b[[:alpha:]]*just.in.time.(production|productions)\b
